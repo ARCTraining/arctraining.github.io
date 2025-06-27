@@ -10,6 +10,7 @@ This will be updated as our courses evolve and change. Please check our [website
 - [SWD1a: Intro to Python Programming](https://arctraining.github.io/python-novice-inflammation/)
 - [SWD1b: Intro to R Programming](https://arctraining.github.io/swd1b-r)
 - [SWD2: Intro to Git and GitHub](https://arctraining.github.io/swd2_git/)
+- [SWD3: Research Software Development in Python](https://arctraining.github.io/research-software-development/)
 
 
 ### High Performance Computing (HPC) Courses
