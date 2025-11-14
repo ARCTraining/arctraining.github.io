@@ -15,5 +15,5 @@ This will be updated as our courses evolve and change. Please check our [website
 
 ### High Performance Computing (HPC) Courses
 - [HPC0: Introduction to Linux](https://arctraining.github.io/rc-slides/linux101#/section) (lecture slides)
-- [HPC1: Introduction to High Performance Computing](https://arctraining.github.io/hpc1/welcome.html)
+- [HPC1: Introduction to High Performance Computing](https://arctraining.github.io/hpc1/index)
 - [HPC2: Installing and Managing Applications on the HPC](https://arctraining.github.io/hpc2-software/welcome.html)
